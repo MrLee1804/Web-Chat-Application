@@ -11,14 +11,14 @@ import { getDatabase, ref, set, remove, onChildAdded, onChildRemoved } from "htt
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: "",
-    measurementId: ""
+  apiKey: "AIzaSyBIhrHatdUWSUDUG6i4Bv2MurWqtyoxHro",
+  authDomain: "blog-web-f8396.firebaseapp.com",
+  databaseURL: "https://blog-web-f8396-default-rtdb.firebaseio.com",
+  projectId: "blog-web-f8396",
+  storageBucket: "blog-web-f8396.firebasestorage.app",
+  messagingSenderId: "564793911422",
+  appId: "1:564793911422:web:a4e707391285f99086d02f",
+  measurementId: "G-LV49ZYBQZM"
 };
 
 // Initialize Firebase
